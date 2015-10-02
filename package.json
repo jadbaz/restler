@@ -1,7 +1,7 @@
 {
   "name": "restler-jad",
   "version": "3.3.0",
-  "description": "An HTTP client library for node.js",
+  "description": "Fork of \"restler\", for personal use only",
   "contributors": [
     {
       "name": "Dan Webb",
